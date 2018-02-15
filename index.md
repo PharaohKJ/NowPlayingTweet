@@ -12,6 +12,7 @@ See the [LICENSE.txt][License] file for more information.
 #### SwiftScripting
 - ScriptingUtilities.framework
 - iTunesScripting.framework
+
 Copyright (c) 2015 Tony Ingraldi.  
 [SwiftScripting - GitHub](https://github.com/tingraldi/SwiftScripting)
 
